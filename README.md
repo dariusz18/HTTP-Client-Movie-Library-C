@@ -74,4 +74,3 @@ The server address and port are defined in `helper.h`:
 ## Dependencies
 
 - [parson 1.5.3](https://github.com/kgabis/parson) — lightweight JSON parsing library (included in source, MIT license)
-# HTTP-Client-Movie-Library-C
